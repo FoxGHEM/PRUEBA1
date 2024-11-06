@@ -1,7 +1,7 @@
 # PRUEBA1
 Anlisis de prueba para resultado cuantitativo por valoracion de parte de una autoridad
 <html>
-<head><title>Esteven Clavijo</title></head>
+
 <body>
 <h1>BIENVENIDA</h1>
 <h2><center>Para PAMELA BAEZ</center></h2>
